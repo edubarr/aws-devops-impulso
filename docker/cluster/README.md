@@ -1,0 +1,1 @@
+IaC Vagrant para definição de um cluster local Swarm, com uma aplicação apache2 distribuida entre as 3 máquinas, com 15 instâncias docker. Após rodar a Vagranfile, é necessário executar o "app_setup.sh" no nó master
